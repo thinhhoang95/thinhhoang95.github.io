@@ -23,6 +23,8 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          {%- assign my_page = "cv.pdf" -%}
+          <a class="page-link" href="{{ my_page | relative_url }}">CV</a>
         </div>
       </nav>
     {%- endif -%}
