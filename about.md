@@ -40,6 +40,6 @@ I'm also familiar with web and mobile app development using the React framework,
 
 # Hobbies
 
-I like to read psychological books in my free time, and often find myself conseilling my close friends and family. I also read more about math due to my long-held admiration of the French for their approach to mathematics.
+I like to read psychological books in my free time, and often find myself conseilling my close friends and family. I also read more about math to satisfy my long-held admiration of the French for their unique approach to mathematics.
 
 Recently GPT models picked up my interest.
