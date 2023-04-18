@@ -5,7 +5,7 @@ order: 1
 ---
 
 # Journal Papers
-D. T. Hoang*, V. Martinez and D. Delahaye, "Modeling and Deriving the Karhunen-Loeve Transform of Road Vehicle Trajectories," IEEE Transactions on Vehicular Technologies, 2023, **under review**.
+D. T. Hoang*, V. Martinez and D. Delahaye, "Modeling and Deriving the Karhunen-Loeve Transform of Road Vehicle Trajectories," 2023, **in preparation**.
 
 D. T. Hoang*, V. Martinez and D. Delahaye, "Online Detection of Anomalous Driving Behavior by Bayes Factor," IEEE Transactions on Intelligent Transporation Systems, 2021, **under review**.
 
