@@ -42,6 +42,6 @@ I'm also familiar with web and mobile app development using the React framework,
 
 I like to read psychological books in my free time, and often find myself conseilling my close friends and family. I also read more about math to satisfy my long-held admiration of the French for their unique approach to mathematics.
 
-I am a fan of the Manchester City F.C. and have a decent collection of Japanese stationery, particularly mechanical pencils. My daily driver is the [Kuru Toga Alpha Gel](https://www.mpuni.co.jp/products/mechanical_pencils/sharp_pen/uni_a-gel/uni_agel.html).
+I am a fan of the Manchester City F.C. and have a decent collection of Japanese stationery, particularly mechanical pencils. My daily driver is the [Uni-ball Kuru Toga HG](https://www.mpuni.co.jp/products/mechanical_pencils/sharp_pen/kurutoga/high_grade.html).
 
 Recently GPT models picked up my interest.
