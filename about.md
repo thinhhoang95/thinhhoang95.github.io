@@ -12,11 +12,11 @@ See my complete CV [here](cv.pdf).
 
 # Experience
 - 2018-2019: Software Engineer, AriaTec Ltd, Ho Chi Minh City, Vietnam.
-- 2019-2020: Probationary Lecturer, Department of Aerspace Engineering, HCMUT, Ho Chi Minh City, Vietnam.
+- 2019-2020: Probationary Lecturer, Department of Aerospace Engineering, HCMUT, Ho Chi Minh City, Vietnam. Courses taught: Avionics, Aerodynamics, Fluid Mechanics.
 
 # Honors
 
-- 2020: Fellowship for PhD Study at ANITI (France).
+- 2020: Fellowship for PhD Study at ANITI / ENAC / Paul Sabatier University (France).
 - 2020: Fellowship for PhD Study at University of New South Wales (Australia).
 - 2019: Top 30 finalists of National Young Engineer and Scientist Award (Hanoi, Vietnam).
 - 2018: Gold Medalist of the PFIEV Aerospace Engineering Cohort.
