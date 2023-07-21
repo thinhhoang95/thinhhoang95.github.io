@@ -5,9 +5,9 @@ order: 1
 ---
 
 # Journal Papers
-D. T. Hoang*, V. Martinez and D. Delahaye, "Modeling and Deriving the Karhunen-Loeve Transform of Road Vehicle Trajectories," IEEE Transactions on Vehicular Technologies, 2023, **under review**.
+D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Exploring the Random Impulses Vehicle Trajectory Model for Dimensionality Reduction and Motion Extraction from Aerial Videos," IEEE Transactions on Intelligent Transportation Systems, 2023, **in submission**.
 
-D. T. Hoang*, V. Martinez and D. Delahaye, "Online Detection of Anomalous Driving Behavior by Bayes Factor," IEEE Transactions on Intelligent Transporation Systems, 2021, **under review**.
+D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Probabilistic Methods for Real-time Unsupervised Anomalous Trajectory Detection," IEEE Transactions on Intelligent Transporation Systems, 2021, **under revision**.
 
 T. L. Ngo, D. T. Hoang, T. H. H. Le, "Dynamics Modeling and Pitching Parameters Identification of a Novel Hybrid UAV," Journal of Aeronautics, Astronautics and Aviation, 52(1), 2020, pp. 25-36.
 
@@ -17,13 +17,13 @@ M. N. To, D. D. Ngo, T. L. Ngo, D. T. Hoang, T. H. H. Le, "Dynamic Modelling and
 D. T. Hoang, D. Delahaye, V. Martinez, "Optimization of message generation frequency and compression of V2X data," European Patent No EP22306821.4, **pending**.
 
 # Conference Papers
-D. T. Hoang*, B. Wang, Y. Li, D. Delahaye, P. Wei, "Anchored Multidimensional Scaling: Hidden Gems in Trajectory Clustering and Traffic Comparison in Similar Thunderstorm Developments," ATM Seminar, 2023, **under review**.
+D. T. Hoang*, B. Wang, Y. Li, D. Delahaye, P. Wei, "Anchored Multidimensional Scaling: Hidden Gems in Trajectory Clustering and Traffic Comparison in Similar Thunderstorm Developments," **in preparation**.
 
-D. T. Hoang*, D. Delahaye, "Online Detection and Localization of Anomalous Aircraft Trajectories during Landing: A Bayesian Hypothesis Testing Approach," ATM Seminar, 2023, **in preparation**.
+D. T. Hoang*, D. Delahaye, "Online Detection and Localization of Anomalous Aircraft Trajectories during Landing: A Bayesian Hypothesis Testing Approach," **in preparation**.
+
+D. T. Hoang*, V. Martinez and D. Delahaye, "Dual Dirichlet Processes for Unsupervised Segmentation of Functional Data with Application to Lane-changing Behavior Characterization," **in preparation**.
 
 D. T. Hoang*, V. Martinez and D. Delahaye, "Spherical Codec for V2X Cooperative Awareness Trajectory Compression: A Preliminary Study," 97th IEEE Vehicular Technology Conference (VTC), 2023.
-
-D. T. Hoang*, V. Martinez and D. Delahaye, "Dual Dirichlet Processes for Unsupervised Segmentation of Functional Data with Application to Lane-changing Behavior Characterization," **in submission**.
 
 D. T. Hoang*, V. Martinez and D. Delahaye, "Recognition of Outlying Driving Behaviors: A Data-Driven Perspective with Applications to V2X Collective Perception," 2021 IEEE Vehicular Networking Conference (VNC), 2021, pp. 52-59, doi: 10.1109/VNC52810.2021.9644627.
 
