@@ -12,11 +12,11 @@ See my complete CV [here](cv.pdf).
 
 # Experience
 - 2018-2019: Software Engineer, AriaTec Ltd, Ho Chi Minh City, Vietnam.
-- 2019-2020: Probationary Lecturer, Department of Aerspace Engineering, HCMUT, Ho Chi Minh City, Vietnam.
+- 2019-2020: Probationary Lecturer, Department of Aerospace Engineering, HCMUT, Ho Chi Minh City, Vietnam. Courses taught: Avionics, Aerodynamics, Fluid Mechanics.
 
 # Honors
 
-- 2020: Fellowship for PhD Study at ANITI (France).
+- 2020: Fellowship for PhD Study at ANITI / ENAC / Paul Sabatier University (France).
 - 2020: Fellowship for PhD Study at University of New South Wales (Australia).
 - 2019: Top 30 finalists of National Young Engineer and Scientist Award (Hanoi, Vietnam).
 - 2018: Gold Medalist of the PFIEV Aerospace Engineering Cohort.
@@ -42,6 +42,6 @@ I'm also familiar with web and mobile app development using the React framework,
 
 I like to read psychological books in my free time, and often find myself conseilling my close friends and family. I also read more about math to satisfy my long-held admiration of the French for their unique approach to mathematics.
 
-I am a fan of the Manchester City F.C. and have a decent collection of Japanese stationery, particularly mechanical pencils. My daily driver is the [Kuru Toga Alpha Gel](https://www.mpuni.co.jp/products/mechanical_pencils/sharp_pen/uni_a-gel/uni_agel.html).
+I am a fan of the Manchester City F.C. and have a decent collection of Japanese stationery, particularly mechanical pencils. My daily driver is the [Uni-ball Kuru Toga HG](https://www.mpuni.co.jp/products/mechanical_pencils/sharp_pen/kurutoga/high_grade.html).
 
 Recently GPT models picked up my interest.
