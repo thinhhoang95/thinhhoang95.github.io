@@ -5,9 +5,9 @@ order: 1
 ---
 
 # Journal Papers
-D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Exploring the Random Impulses Vehicle Trajectory Model for Dimensionality Reduction and Motion Extraction from Aerial Videos," IEEE Transactions on Intelligent Transportation Systems, 2023, **in submission**.
+D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Exploring the Random Impulses Vehicle Trajectory Model for Dimensionality Reduction and Motion Extraction from Aerial Videos," IEEE Transactions on Intelligent Transportation Systems, 2023, **under review** [(manuscript)](papers/random_impulses.pdf).
 
-D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Probabilistic Methods for Real-time Unsupervised Anomalous Trajectory Detection," IEEE Transactions on Intelligent Transporation Systems, 2021, **under revision**.
+D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Probabilistic Methods for Real-time Unsupervised Anomalous Trajectory Detection," IEEE Transactions on Intelligent Transporation Systems, 2021, **under revision** [(manuscript)](papers/anomaly_detection.pdf).
 
 T. L. Ngo, D. T. Hoang, T. H. H. Le, "Dynamics Modeling and Pitching Parameters Identification of a Novel Hybrid UAV," Journal of Aeronautics, Astronautics and Aviation, 52(1), 2020, pp. 25-36.
 
@@ -25,7 +25,7 @@ D. T. Hoang*, V. Martinez and D. Delahaye, "Dual Dirichlet Processes for Unsuper
 
 D. T. Hoang*, V. Martinez and D. Delahaye, "Spherical Codec for V2X Cooperative Awareness Trajectory Compression: A Preliminary Study," 97th IEEE Vehicular Technology Conference (VTC), 2023.
 
-D. T. Hoang*, V. Martinez and D. Delahaye, "Recognition of Outlying Driving Behaviors: A Data-Driven Perspective with Applications to V2X Collective Perception," 2021 IEEE Vehicular Networking Conference (VNC), 2021, pp. 52-59, doi: 10.1109/VNC52810.2021.9644627.
+D. T. Hoang*, V. Martinez and D. Delahaye, "Recognition of Outlying Driving Behaviors: A Data-Driven Perspective with Applications to V2X Collective Perception," 2021 IEEE Vehicular Networking Conference (VNC), 2021, pp. 52-59, doi: 10.1109/VNC52810.2021.9644627 (link)[https://ieeexplore.ieee.org/document/9644627#citations].
 
 D. T. Hoang*, H. T-H. Le, and T. D. Ngo, "State Estimation in Visual Inertial Autonomous Helicopter Landing Using Optimization on Manifold," 15th International Conference on Intelligent Unmanned Systems, Beijing, China, 2019.
 
