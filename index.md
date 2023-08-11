@@ -11,8 +11,7 @@ I am a PhD student at the French Civil Aviation University (ENAC) Optimization L
 - Office: Z133, École Nationale de l'Aviation Civile, 7 avenue Édouard Belin, 31055 Toulouse, France.
 - Email: [thinh.hoang-dinh@univ-toulouse.fr](mailto:thinh.hoang-dinh@univ-toulouse.fr).
 
-<span style="color: blue">**I'm available for a Postdoctoral Researcher position from November 2023, preferably in Europe or the United States. My complete CV is [here](cv.pdf).**</span>
-
+<!-- <span style="color: blue">**I'm available for a Postdoctoral Researcher position from November 2023, preferably in Europe or the United States. My complete CV is [here](cv.pdf).**</span> -->
 
 ## Interests
 My research focuses on **Probabilistic Graph Models (PGM) of Bayesian Statistics, Signal Modeling using Stochastic Processes and Large Language Models in Time Series Processing**. I also work on ITS-G5 V2X.
