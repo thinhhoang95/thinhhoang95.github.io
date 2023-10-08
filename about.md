@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-order: 2
+order: 1
 ---
 See my complete CV [here](cv.pdf).
 
@@ -46,4 +46,20 @@ My favourite airplane is the Boeing 787 Dreamliner.
 
 I am a fan of the Manchester City F.C. and have a decent collection of Japanese stationery, particularly mechanical pencils. My daily driver is the [Uni-ball Kuru Toga Alpha Gel](https://www.mpuni.co.jp/products/mechanical_pencils/sharp_pen/uni_a-gel/uni_agel.html).
 
-Recently GPT models picked up my interest.
+# Reading list
+Currently I'm reading the following books:
+- The Rare Find: Spotting Exceptional Talent Before Everyone Else, George Anders.
+- The Signal and the Noise: Why So Many Predictions Fail - But Some Don't, Nate Silver.
+
+I have read past the following books in 2023 (maybe not all of them):
+- The Tragedy of Great Power Politics, John J. Mearsheimer.
+- The Autobiography of Benjamin Franklin, Benjamin Franklin.
+- Dataclysm: Who We Are (When We Think No One's Looking), Christian Rudder.
+- Skunk Works: A Personal Memoir of My Years at Lockheed, Ben R. Rich.
+
+And in 2022:
+- America Against America, Wang Huning.
+- The Man Who Knew Infinity, Robert Kanigel.
+- A Beautiful Mind, Sylvia Nasar.
+- Marie Curie: A Life, Susan Quinn.
+- CBT for Dummies, Rhena Branch.
