@@ -3,7 +3,7 @@ layout: default
 title: Home
 order: 0
 ---
-![image](thinh.jpg){: style="float: left; margin-right: 20px; margin-bottom: 30px" : width="150"}
+![image](thinh.jpg){: style="float: left; margin-right: 20px; margin-bottom: 10px" : width="150"}
 ## Thinh Hoang Dinh
 I am a PhD student at the French Civil Aviation University (ENAC) Optimization Laboratory, affiliated with the Artificial and Natural Intelligence Toulouse Institute (ANITI) and NXP Semiconductors Toulouse, France. Currently, I am conducting research in the field of **vehicular communications, signal processing and machine learning in Intelligent Transportation Systems** under supervision of Pr. Daniel Delahaye (ENAC) and Pr. Pierre Maréchal (Toulouse Institute of Mathematics).
 
@@ -11,11 +11,12 @@ I am a PhD student at the French Civil Aviation University (ENAC) Optimization L
 - Office: Z133, École Nationale de l'Aviation Civile, 7 avenue Édouard Belin, 31055 Toulouse, France.
 - Email: [thinh.hoang-dinh@univ-toulouse.fr](mailto:thinh.hoang-dinh@univ-toulouse.fr).
 
+{% comment %}
 <span style="color: blue">**I'm available for a Postdoctoral Researcher position from October '23, preferably in the United States, United Kingdom and Australia. My complete CV is [here](cv.pdf).**</span>
-
+{% endcomment %}
 
 ## Interests
-My research focuses on **Probabilistic Graph Models (PGM) of Bayesian Statistics, Signal Modeling using Stochastic Processes, Unsupervised and Reinforcement Learning in Air Traffic Management**. I also work on ITS-G5 V2X.
+My doctoral dissertation focused on signal processing and unsupervised learning of road vehicle trajectory data. I've also had some work in sparse optimization, large language models, and recently, I've been working on theoretical reinforcement learning.
 
 # Highlight Work
 
