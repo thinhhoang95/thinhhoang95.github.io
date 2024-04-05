@@ -8,8 +8,9 @@ order: 0
 I am a PhD student at the French Civil Aviation University (ENAC) Optimization Laboratory, affiliated with the Artificial and Natural Intelligence Toulouse Institute (ANITI) and NXP Semiconductors Toulouse, France. Currently, I am conducting research in the field of **vehicular communications, signal processing and machine learning in Intelligent Transportation Systems** under supervision of Pr. Daniel Delahaye (ENAC) and Pr. Pierre Maréchal (Toulouse Institute of Mathematics). [See more](about.md).
 
 ## Contact
-- Office: Z133, École Nationale de l'Aviation Civile, 7 avenue Édouard Belin, 31055 Toulouse, France.
 - Email: [thinh.hoang-dinh@univ-toulouse.fr](mailto:thinh.hoang-dinh@univ-toulouse.fr).
+
+<span style="color: red">I'm available for a Postdoctoral Researcher position, preferably in the United States or in France. My complete CV is [here](cv.pdf).</span>
 
 {% comment %}
 <span style="color: blue">**I'm available for a Postdoctoral Researcher position from October '23, preferably in the United States, United Kingdom and Australia. My complete CV is [here](cv.pdf).**</span>

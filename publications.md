@@ -3,6 +3,8 @@ layout: default
 title: Publications
 order: 2
 ---
+# Thesis
+Techniques de Traitement des Données pour Les Trajectoires des Véhicules Routiers et Aériens: Réduction de dimensionnalité, détection d’anomalies, filtrage et compression de données avec des applications dans la perception collective V2X [(manuscript)](papers/main_corrected.pdf).
 
 # Journal Papers
 D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Exploring the Random Impulses Vehicle Trajectory Model for Dimensionality Reduction and Motion Extraction from Aerial Videos," IEEE Transactions on Intelligent Transportation Systems, 2023, **under review** [(manuscript)](papers/random_impulses.pdf).
