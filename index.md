@@ -4,10 +4,12 @@ title: Home
 order: 0
 ---
 ![image](thinh.jpg){: style="float: left; margin-right: 20px; margin-bottom: 10px" : width="150"}
-## [Thinh Hoang Dinh, Ph.D. (Edwin Hoang)](about.md) 
+## [Thinh Hoang Dinh, Ph.D. (Jensen Hoang)](about.md) 
 I am a postdoctoral researcher at the French Civil Aviation University (ENAC) Optimization Laboratory.
 
 [See more](about.md).
+
+<div style="margin-top: 40px;"></div>
 
 ## Contact
 - Email: [thinh.hoangdinh@enac.fr](mailto:thinh.hoangdinh@enac.fr).
@@ -23,7 +25,7 @@ I am a postdoctoral researcher at the French Civil Aviation University (ENAC) Op
 ## Research Interests
 My doctoral dissertation focused on function approximations and signal processing, specifically applied to vehicle trajectory data. I've also explored sparse optimization, large language models, and theoretical reinforcement learning.
 
-For the moment, I'm current working on the [SESAR's DeepFlow Project](https://www.sesarju.eu/news/eur-26-million-investment-sesar-ju-unveils-new-projects-smarter-air-traffic-management). Our aim is to develop a transparent and interpretable machine learning method to enhance air traffic management.
+For the moment, I'm current working on the [SESAR's DeepFlow Project](https://www.sesarju.eu/news/eur-26-million-investment-sesar-ju-unveils-new-projects-smarter-air-traffic-management) under guidance of Pr. Daniel DELAHAYE. Our aim is to develop a transparent and interpretable machine learning method to enhance air traffic management.
 
 # Highlight Work
 

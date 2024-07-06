@@ -7,7 +7,7 @@ See my complete CV [here](cv.pdf).
 
 # Education
 
-- In pursuit of the Doctorate in Applied Mathematics, Paul Sabatier University, Toulouse, France (2020-2023).
+- Doctorate in Applied Mathematics, Paul Sabatier University, Toulouse, France (2020-2023).
 - Engineering Degree of Aerospace Engineering '18, PFIEV Program, Ho Chi Minh City University of Technology (HCMUT), Ho Chi Minh City, Vietnam.
 
 # Experience
