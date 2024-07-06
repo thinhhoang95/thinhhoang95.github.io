@@ -4,20 +4,26 @@ title: Home
 order: 0
 ---
 ![image](thinh.jpg){: style="float: left; margin-right: 20px; margin-bottom: 10px" : width="150"}
-## [Thinh Hoang Dinh (Edwin Hoang)](about.md) 
-I am a PhD student at the French Civil Aviation University (ENAC) Optimization Laboratory, affiliated with the Artificial and Natural Intelligence Toulouse Institute (ANITI) and NXP Semiconductors Toulouse, France. Currently, I am conducting research in the field of **vehicular communications, signal processing and machine learning in Intelligent Transportation Systems** under supervision of Pr. Daniel Delahaye (ENAC) and Pr. Pierre Maréchal (Toulouse Institute of Mathematics). [See more](about.md).
+## [Thinh Hoang Dinh, Ph.D. (Edwin Hoang)](about.md) 
+I am a postdoctoral researcher at the French Civil Aviation University (ENAC) Optimization Laboratory.
+
+[See more](about.md).
 
 ## Contact
-- Email: [thinh.hoang-dinh@univ-toulouse.fr](mailto:thinh.hoang-dinh@univ-toulouse.fr).
+- Email: [thinh.hoangdinh@enac.fr](mailto:thinh.hoangdinh@enac.fr).
 
+{% comment %}
 <span style="color: red">I'm available for a Postdoctoral Researcher position, preferably in the United States or in France. My complete CV is [here](cv.pdf).</span>
+{% endcomment %}
 
 {% comment %}
 <span style="color: blue">**I'm available for a Postdoctoral Researcher position from October '23, preferably in the United States, United Kingdom and Australia. My complete CV is [here](cv.pdf).**</span>
 {% endcomment %}
 
 ## Research Interests
-My doctoral dissertation focused on signal processing and unsupervised learning of road vehicle trajectory data. I've also had some work in sparse optimization, large language models, and recently, I've been working on theoretical reinforcement learning.
+My doctoral dissertation focused on function approximations and signal processing, specifically applied to vehicle trajectory data. I've also explored sparse optimization, large language models, and theoretical reinforcement learning.
+
+For the moment, I'm current working on the [SESAR's DeepFlow Project](https://www.sesarju.eu/news/eur-26-million-investment-sesar-ju-unveils-new-projects-smarter-air-traffic-management). Our aim is to develop a transparent and interpretable machine learning method to enhance air traffic management.
 
 # Highlight Work
 
