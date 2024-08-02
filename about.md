@@ -44,18 +44,27 @@ I like to read psychological books in my free time, and often find myself consei
 
 My favourite airplane is the Boeing 787 Dreamliner.
 
-I am a fan of the Manchester City F.C. and have a decent collection of Japanese stationery, particularly mechanical pencils. My daily driver is the [Uni-ball Kuru Toga Alpha Gel](https://www.mpuni.co.jp/products/mechanical_pencils/sharp_pen/uni_a-gel/uni_agel.html).
+I am a fan of the Manchester City F.C. and have a decent collection of Japanese stationery, particularly mechanical pencils. My daily driver is the [Uni-ball Kuru Toga](https://www.mpuni.co.jp/products/mechanical_pencils/sharp_pen/uni_a-gel/uni_agel.html).
+
+I also like sharing book recommendations with my friends and family. My favourite genres are investigative journalism and history.
 
 # Reading list
-Currently I'm reading the following books:
-- The Rare Find: Spotting Exceptional Talent Before Everyone Else, George Anders.
-- The Signal and the Noise: Why So Many Predictions Fail - But Some Don't, Nate Silver.
+Currently I'm reading the following books (as of July 2024):
+- Flying Blind: The 737 Max Tragedy and the Fall of Boeing, Peter Robison.
+- The Alignment Problem: Machine Learning and Human Values, Brian Christian.
+- Make It Stick: The Science of Successful Learning, Peter C. Brown.
 
 I have read past the following books in 2023 (maybe not all of them):
 - The Tragedy of Great Power Politics, John J. Mearsheimer.
 - The Autobiography of Benjamin Franklin, Benjamin Franklin.
 - Dataclysm: Who We Are (When We Think No One's Looking), Christian Rudder.
 - Skunk Works: A Personal Memoir of My Years at Lockheed, Ben R. Rich.
+- The Rare Find: Spotting Exceptional Talent Before Everyone Else, George Anders.
+- The Signal and the Noise: Why So Many Predictions Fail - But Some Don't, Nate Silver.
+- The Israel-Palestine Conflict: One Hundred Years of War, James L. Gelvin.
+- The Man Who Broke Capitalism, David Gelles.
+- Dogs and Demons: The Fall of Modern Japan, Alex Kerr.
+- Behave: The Biology of Humans at Our Best and Worst, Robert M. Sapolsky.
 
 And in 2022:
 - America Against America, Wang Huning.

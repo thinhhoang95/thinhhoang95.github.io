@@ -3,9 +3,9 @@ layout: default
 title: Home
 order: 0
 ---
-![image](thinh.jpg){: style="float: left; margin-right: 20px; margin-bottom: 10px" : width="150"}
+![image](thinh.jpg){: style="float: left; margin-right: 20px; margin-bottom: 10px" : width="140"}
 ## [Thinh Hoang Dinh, Ph.D. (Jensen Hoang)](about.md) 
-I am a postdoctoral researcher at the French Civil Aviation University (ENAC) Optimization Laboratory.
+I am a postdoctoral researcher at the French Civil Aviation University (ENAC) Optimization Laboratory. This website hosts my personal blog, where I share my research, projects, and thoughts on various topics. It also serves a [Graph RAG](https://microsoft.github.io/graphrag/) powered by GPT 4o mini.
 
 [See more](about.md).
 
