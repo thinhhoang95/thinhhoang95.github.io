@@ -29,6 +29,18 @@ For the moment, I'm current working on the [SESAR's DeepFlow Project](https://ww
 
 # Highlight Work
 
+![image](energyfield.jpg){: style="float: left; margin-right: 10px" : width="90%"}
+{: .left-50}
+
+## Helmholtz Model
+The project attempts to leverage the sparse activation patterns of optimization constraints in order to simplify a large optimization problem into many smaller subproblems. This creates an alternative approach to solving the Hamilton-Jacobi-Bellman equation in reinforcement learning. As a result, the Helmholtz model can be used to align the model without the cost of generating a large amount of synthetic data.
+
+<div style="height: 20px"></div>
+{: .right-50}
+
+{: style="clear: both"}
+{: style="clear: both"}
+
 ![image](stratoeye.jpg){: style="float: left; margin-right: 10px; margin-bottom: 130px" : width="90%"}
 {: .left-50}
 

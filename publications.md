@@ -7,9 +7,13 @@ order: 2
 Techniques de Traitement des Données pour Les Trajectoires des Véhicules Routiers et Aériens: Réduction de dimensionnalité, détection d’anomalies, filtrage et compression de données avec des applications dans la perception collective V2X [(manuscript)](papers/main_corrected.pdf).
 
 # Journal Papers
-D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Exploring the Random Impulses Vehicle Trajectory Model for Dimensionality Reduction and Motion Extraction from Aerial Videos," IEEE Transactions on Intelligent Transportation Systems, 2023, **under review** [(manuscript)](papers/random_impulses.pdf).
+D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Exploring the Random Impulses Vehicle Trajectory Model for Dimensionality Reduction and Motion Extraction from Aerial Videos," **under review**.
 
-D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Probabilistic Methods for Real-time Unsupervised Anomalous Trajectory Detection," IEEE Transactions on Intelligent Transporation Systems, 2021, **under revision** [(manuscript)](papers/anomaly_detection.pdf).
+<!-- D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Exploring the Random Impulses Vehicle Trajectory Model for Dimensionality Reduction and Motion Extraction from Aerial Videos," **under review** [(manuscript)](papers/random_impulses.pdf). -->
+
+D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Probabilistic Methods for Real-time Unsupervised Anomalous Trajectory Detection," **under revision**.
+
+<!-- D. T. Hoang*, V. Martinez, P. Maréchal, D. Delahaye, "Probabilistic Methods for Real-time Unsupervised Anomalous Trajectory Detection," **under revision** [(manuscript)](papers/anomaly_detection.pdf). -->
 
 T. L. Ngo, D. T. Hoang, T. H. H. Le, "Dynamics Modeling and Pitching Parameters Identification of a Novel Hybrid UAV," Journal of Aeronautics, Astronautics and Aviation, 52(1), 2020, pp. 25-36.
 
